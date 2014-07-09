@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/images/icon.png</file>
+        <file>qml/images/checked.png</file>
+        <file>qml/images/userhead.png</file>
+        <file>qml/images/inmsgflag.png</file>
+        <file>qml/images/outmsgflag.png</file>
+        <file>qml/images/sended_ok.png</file>
+        <file>qml/images/dropableflag.png</file>
+        <file>qml/images/goback.png</file>
+        <file>qml/images/sentout.png</file>
+        <file>qml/images/message.png</file>
+        <file>qml/images/select_person.png</file>
+        <file>qml/images/response.png</file>
+        <file>qml/images/updating.png</file>
+        <file>qml/images/send_err.png</file>
+        <file>qml/images/delete.png</file>
+        <file>qml/images/inmsgflag_selected.png</file>
+        <file>qml/images/outmsgflag_selected.png</file>
+        <file>qml/images/search.png</file>
+        <file>qml/images/clear.png</file>
+    </qresource>
+</RCC>

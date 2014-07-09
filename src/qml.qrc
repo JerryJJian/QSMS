@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/SmsListView.qml</file>
+        <file>qml/ConversionView.qml</file>
+        <file>qml/TextEditor.qml</file>
+        <file>qml/ContactListView.qml</file>
+    </qresource>
+</RCC>
