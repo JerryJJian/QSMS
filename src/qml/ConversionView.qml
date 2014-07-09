@@ -632,13 +632,13 @@ Item {
             Behavior on y { NumberAnimation { duration: 500 } }
         }
 
-        SequentialAnimation　{
+        SequentialAnimation {
             id: scrollbarFadeoutAnimation
             PauseAnimation { duration: 1000 }
             PropertyAnimation {
                 target: scrollBar
                 properties: "opacity"
-                from:　1
+                from: 1
                 to: 0
                 duration: 1000
             }
