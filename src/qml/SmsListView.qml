@@ -357,14 +357,14 @@ Item {
             if (!dragging && needUpdating) root.fetchMore()
         }
 
-        SequentialAnimation　{
+        SequentialAnimation {
             id: scrollbarFadeoutAnimation
             PauseAnimation { duration: 1000 }
             PropertyAnimation {
                 target: scrollBar
                 easing.type: Easing.InCirc
                 properties: "opacity"
-                from:　1
+                from: 1
                 to: 0
                 duration: 1000
             }
